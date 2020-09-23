@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1721c2c9-542b-4c9e-b203-13f935229242" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1hrK4ccaLgE3b9JiPUAfAUvs1ZX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.4" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.62" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_interpreter_path" value="wsl://UBUNTU@/usr/local/bin/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="\\wsl$\Ubuntu\home\pongkot\Sanbox\quiz\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Mocha.getWeekday.randomDateInput">
+    <configuration name="diffYear" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test.ts</test-file>
+      <test-names>
+        <name value="diffYear" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="diffYear.test" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test.ts</test-file>
+      <test-names>
+        <name value="diffYear" />
+        <name value="test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="getWeekday" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test.ts</test-file>
+      <test-names>
+        <name value="getWeekday" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="getWeekday.randomDateInput" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/test.ts</test-file>
+      <test-names>
+        <name value="getWeekday" />
+        <name value="randomDateInput" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options>--require ts-node/register</extra-mocha-options>
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test.ts</test-file>
+      <test-names>
+        <name value="test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Mocha.getWeekday.randomDateInput" />
+        <item itemvalue="Mocha.getWeekday" />
+        <item itemvalue="Mocha.test" />
+        <item itemvalue="Mocha.diffYear.test" />
+        <item itemvalue="Mocha.diffYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1721c2c9-542b-4c9e-b203-13f935229242" name="Default Changelist" comment="" />
+      <created>1600763582906</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600763582906</updated>
+      <workItem from="1600763584740" duration="10736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="912" height="440" key="GridCell.Tab.0.bottom" timestamp="1600797585563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="593" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1600786356452" />
+    <state width="912" height="440" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600797585563" />
+    <state width="912" height="440" key="GridCell.Tab.0.center" timestamp="1600797585563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="593" height="281" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1600786356452" />
+    <state width="912" height="440" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600797585563" />
+    <state width="912" height="440" key="GridCell.Tab.0.left" timestamp="1600797585563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="593" height="281" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1600786356452" />
+    <state width="912" height="440" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600797585563" />
+    <state width="912" height="440" key="GridCell.Tab.0.right" timestamp="1600797585563">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="593" height="281" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1600786356452" />
+    <state width="912" height="440" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600797585563" />
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.1.center" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.1.left" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.1.right" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.2.bottom" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.2.center" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.2.left" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.2.right" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.3.bottom" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.3.center" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.3.left" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state width="1875" height="347" key="GridCell.Tab.3.right" timestamp="1600764767177">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="347" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600764767177" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600770551052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600770551052" />
+  </component>
+</project>
